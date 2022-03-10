@@ -2,8 +2,7 @@
 
 /**
  * /**
-   akili mtu wangu
-
+   *akili mtu wangu
  * Return: Always 0 (Success)
  */
 int main(void)

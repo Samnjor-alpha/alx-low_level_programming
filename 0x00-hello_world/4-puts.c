@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-akili mtu wangu
+*akili mtu wangu
  */
 int main(void)
 {
