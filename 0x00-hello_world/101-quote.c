@@ -2,7 +2,7 @@
 #include <unistd.h>
 
 /**
- no comment.Be wise
+*no comment.Be wise
  */
 int main(void)
 {
