@@ -1,7 +1,7 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
- * main - check the code for 5-sign
+ * main
  *
  * Return: Always 0.
  */
