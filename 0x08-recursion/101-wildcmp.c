@@ -2,7 +2,7 @@
 
 include "main.h"
 /**
- * wildcmp - A function that compares two strings
+ * wildcmp A function that compares two strings
  * @s1: First input string
  * @s2: Second input string
  * Return: 1 if strings identical and 0 in otherwise
