@@ -24,7 +24,7 @@ void print_elem_hex(int elem)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main
  *
  * Return: Always 0.
  */

@@ -39,7 +39,7 @@ void print_name_uppercase(char *name)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main
  *
  * Return: Always 0.
  */

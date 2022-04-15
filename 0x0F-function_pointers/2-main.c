@@ -36,7 +36,7 @@ int abs_is_98(int elem)
 }
 
 /**
- * main - check the code for Holberton School students.
+ * main
  *
  * Return: Always 0.
  */
